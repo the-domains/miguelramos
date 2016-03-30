@@ -1,0 +1,28 @@
+name: miguelramos
+favicon: null
+layout_spectrum: 0.0699350438080728
+typography_spectrum: 0.8802087195217609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.08378304820507765
+  lightness: 0.628823337610811
+  saturation: 0.552036837907508
+  rhythmicContrast: 0.3184384747873992
+purpose: []
